@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AK-INSTITUTE1</title>
+    <link rel="stylesheet" href="./navbar.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <h1>AK-INSTITUTE</h1>
+        <ul>    
+    <li>Home </li>
+    <li>Courses</li>
+    <li>Admission </li>
+    <li>Contact </li>
+</ul>
+</nav>
+</div>
+
+  
+  <div>
+    <div class="introduction"> 
+    <div>
+     <img  class="intro-img1" src="./img/training5.jpg"/>
+    </div>
+    <div class="intro-content">  AK-INSTITUTE</div>
+    <div class="inotro-content2">Register your self for join.Email your resume to akkumar200104@gmail.com.</div>
+ </div>
